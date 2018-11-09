@@ -1,0 +1,17 @@
+﻿---
+BasedOnStyle: Chromium
+AccessModifierOffset: '-4'
+AlignTrailingComments: 'true'
+AllowShortIfStatementsOnASingleLine: 'false'
+AllowShortLoopsOnASingleLine: 'false'
+BreakBeforeBraces: Allman
+ColumnLimit: '120'
+IndentWidth: '4'
+Language: Cpp
+MaxEmptyLinesToKeep: '1'
+NamespaceIndentation: All
+Standard: Cpp11
+TabWidth: '4'
+UseTab: Never
+
+...
